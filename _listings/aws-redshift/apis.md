@@ -30,7 +30,7 @@ apis:
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/aws-redshift/action-describeclusterparameters-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/aws-redshift/action-describedefaultclusterparameters-get.md
 x-common:
 - type: x-best-practices
   url: https://aws.amazon.com/redshift/developer-resources/#best-practices
