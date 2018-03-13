@@ -38,7 +38,7 @@ apis:
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/heroku/apps-app-collaborators-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/heroku/apps-app-collaborators-email-parameters.md
 x-common:
 - type: x-base
   url: https://api.heroku.com
