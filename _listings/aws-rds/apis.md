@@ -14,9 +14,9 @@ tags:
 - Stack
 - Database
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/aws-rds/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-rds/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Amazon RDS API
@@ -28,7 +28,7 @@ apis:
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/aws-rds/action-describeenginedefaultparameters-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-rds/action-describedbclusterparameters-get.md
 x-common:
 - type: x-articles
   url: https://aws.amazon.com/articles/Amazon-RDS
