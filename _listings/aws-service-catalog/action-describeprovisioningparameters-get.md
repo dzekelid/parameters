@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeProvisioningParameters&k=1:
+  /?Action=DescribeProvisioningParameters:
     get:
       summary: ' Describe Provisioning Parameters '
       description: |-
