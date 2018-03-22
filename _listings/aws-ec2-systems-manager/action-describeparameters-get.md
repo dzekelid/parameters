@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeParameters&k=1:
+  /?Action=DescribeParameters:
     get:
       summary: ' Describe Parameters '
       description: Get information about a parameter
