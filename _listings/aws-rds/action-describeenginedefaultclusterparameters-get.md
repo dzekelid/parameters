@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeEngineDefaultClusterParameters&k=1:
+  /?Action=DescribeEngineDefaultClusterParameters:
     get:
       summary: Describe Engine Default Cluster Parameters
       description: Returns the default engine and system parameter information for
