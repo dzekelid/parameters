@@ -16,9 +16,9 @@ tags:
 - Developers
 - Continuous Integration
 - Continuous Deployment
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/circleci/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: CircleCI
@@ -31,7 +31,7 @@ apis:
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/circleci/project-username-project-build-num-tests-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-parameters.md
 x-common:
 - type: x-blog
   url: https://circleci.com/blog/
