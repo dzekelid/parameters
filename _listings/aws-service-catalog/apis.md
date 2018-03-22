@@ -14,9 +14,9 @@ tags:
 - Stack Network
 - Discovery
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/aws-service-catalog/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-service-catalog/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS Service Catalog API
@@ -28,7 +28,7 @@ apis:
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/aws-service-catalog/action-describeprovisioningparameters-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-service-catalog/action-describeprovisioningparameters-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/servicecatalog/latest/dg/service-catalog-api-overview.html
