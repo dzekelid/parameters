@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetParameters&k=1:
+  /?Action=GetParameters:
     get:
       summary: ' Get Parameters '
       description: Get a list of parameters used by the AWS account
