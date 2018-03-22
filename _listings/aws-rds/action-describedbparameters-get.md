@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeDBParameters&k=1:
+  /?Action=DescribeDBParameters:
     get:
       summary: Describe D B Parameters
       description: Returns the detailed parameter list for a particular DB parameter
