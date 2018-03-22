@@ -21,9 +21,9 @@ tags:
 - Deployment
 - Cloud
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/aws-ec2-systems-manager/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-ec2-systems-manager/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Amazon EC2 Systems Manager API
@@ -36,7 +36,7 @@ apis:
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/parameters/master/_listings/aws-ec2-systems-manager/action-getparameters-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-ec2-systems-manager/action-describeparameters-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/ssm/latest/APIReference/Welcome.html
