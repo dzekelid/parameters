@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeDBClusterParameters&k=1:
+  /?Action=DescribeDBClusterParameters:
     get:
       summary: Describe D B Cluster Parameters
       description: Returns the detailed parameter list for a particular DB cluster
