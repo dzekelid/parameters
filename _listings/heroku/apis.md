@@ -38,7 +38,7 @@ apis:
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apps-app-releases-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apps-app-releases-release-parameters.md
 x-common:
 - type: x-base
   url: https://api.heroku.com
