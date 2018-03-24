@@ -24,21 +24,11 @@ tags:
 - Command Line Interface
 - Code
 - API LIfeycle
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-23"
+modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: Heroku
-  description: Heroku is the first and best multi-language cloud application platform,
-    or platform-as-a-service
-  image: https://avatars3.githubusercontent.com/u/23211?v=4
-  humanURL: ""
-  baseURL: https://api.heroku.com//
-  tags: Parameters
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apps-app-stack-parameters.md
+apis: []
 x-common:
 - type: x-base
   url: https://api.heroku.com
