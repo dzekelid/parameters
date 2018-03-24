@@ -31,7 +31,7 @@ apis:
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-build-num-retry-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-build-num-tests-parameters.md
 x-common:
 - type: x-blog
   url: https://circleci.com/blog/
