@@ -32,17 +32,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-build-num-tests-parameters.md
-- name: CircleCI Parameters Project Username Project Envvar
-  description: Parameters project username project envvar.
+- name: CircleCI Parameters Project Username Project Envvar Name
+  description: Parameters project username project envvar name.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/circleci-logo.png
   humanURL: https://circleci.com/
   baseURL: https://circleci.com//api/v1
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-envvar-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-envvar-name-parameters.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-envvar-parameters-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-envvar-name-parameters-postman.md
 x-common:
 - type: x-blog
   url: https://circleci.com/blog/
