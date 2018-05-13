@@ -29,7 +29,28 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-service-catalog/action-describeprovisioningparameters-get.md
+- name: AWS Service Catalog API Describe Provisioning Parameters
+  description: |-
+    Provides information about parameters required to provision a specified product in a
+             specified manner.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSServiceCatalog.png
+  humanURL: https://aws.amazon.com/servicecatalog/
+  baseURL: http:://{host}//
+  tags: Parameters
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-service-catalog/action-describeprovisioningparameters-get.md
 x-common:
+- type: x-documentation
+  url: http://docs.aws.amazon.com/servicecatalog/latest/dg/service-catalog-api-overview.html
+- type: x-faq
+  url: https://aws.amazon.com/servicecatalog/faqs/
+- type: x-getting-started
+  url: https://aws.amazon.com/servicecatalog/getting-started/
+- type: x-pricing
+  url: https://aws.amazon.com/servicecatalog/pricing/
+- type: x-website
+  url: https://aws.amazon.com/servicecatalog/
 - type: x-documentation
   url: http://docs.aws.amazon.com/servicecatalog/latest/dg/service-catalog-api-overview.html
 - type: x-faq
