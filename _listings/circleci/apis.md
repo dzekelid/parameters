@@ -32,17 +32,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-build-num-tests-parameters.md
-- name: CircleCI Parameters Project Username Project Build Num Artifacts
-  description: Parameters project username project build num artifacts.
+- name: CircleCI Parameters Project Username Project Build Num Cancel
+  description: Parameters project username project build num cancel.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/circleci-logo.png
   humanURL: https://circleci.com/
   baseURL: https://circleci.com//api/v1
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-build-num-artifacts-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-build-num-cancel-parameters.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-build-num-artifacts-parameters-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/circleci/project-username-project-build-num-cancel-parameters-postman.md
 x-common:
 - type: x-blog
   url: https://circleci.com/blog/
