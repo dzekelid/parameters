@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Key Management Service API
+  title: AWS Key Management Service API Get Parameters For Import
   version: 1.0.0
+  description: |-
+    Returns the items you need in order to import key material into AWS KMS from your
+          existing key management infrastructure.
 schemes:
 - http
 produces:
