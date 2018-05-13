@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS RDS API
+  title: Amazon RDS API Describe Engine Default Cluster Parameters
   version: 1.0.0
+  description: Returns the default engine and system parameter information for the
+    cluster database engine.
 schemes:
 - http
 produces:
