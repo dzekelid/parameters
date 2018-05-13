@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS RDS API
+  title: Amazon RDS API Describe D B Parameters
   version: 1.0.0
+  description: Returns the detailed parameter list for a particular DB parameter group.
 schemes:
 - http
 produces:
