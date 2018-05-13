@@ -29,16 +29,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-rds/action-describeenginedefaultparameters-get.md
-- name: Amazon RDS API Describe Engine Default Cluster Parameters
+- name: Amazon RDS API Describe Engine Default Parameters
   description: Returns the default engine and system parameter information for the
-    cluster database engine.
+    specified database engine.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRDS.png
   humanURL: https://aws.amazon.com/rds/
   baseURL: http:://{host}//
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-rds/action-describeenginedefaultclusterparameters-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-rds/action-describeenginedefaultparameters-get.md
 x-common:
 - type: x-articles
   url: https://aws.amazon.com/articles/Amazon-RDS
