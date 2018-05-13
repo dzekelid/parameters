@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Service Catalog API
+  title: AWS Service Catalog API Describe Provisioning Parameters
   version: 1.0.0
+  description: |-
+    Provides information about parameters required to provision a specified product in a
+             specified manner.
 schemes:
 - http
 produces:
