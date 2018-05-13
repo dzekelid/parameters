@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS ElastiCache API
+  title: Amazon ElastiCache API Describe Engine Default Parameters
   version: 1.0.0
+  description: |-
+    Returns the default engine and
+                system parameter information for the specified cache engine.
 schemes:
 - http
 produces:
