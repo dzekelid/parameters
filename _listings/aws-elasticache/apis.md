@@ -34,7 +34,32 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-elasticache/action-describeenginedefaultparameters-get.md
+- name: Amazon ElastiCache API Describe Cache Parameters
+  description: |-
+    Returns the detailed parameter list for a
+                particular cache parameter group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonElasticCache.png
+  humanURL: https://aws.amazon.com/elasticache/
+  baseURL: http:://{host}//
+  tags: Parameters
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-elasticache/action-describecacheparameters-get.md
 x-common:
+- type: x-documentation
+  url: http://docs.aws.amazon.com/AmazonElastiCache/latest/APIReference/Welcome.html
+- type: x-faq
+  url: https://aws.amazon.com/elasticache/faqs/
+- type: x-getting-started
+  url: https://aws.amazon.com/elasticache/getting-started/
+- type: x-pricing
+  url: https://aws.amazon.com/elasticache/pricing/
+- type: x-resources
+  url: https://aws.amazon.com/elasticache/developer-resources/
+- type: x-testimonials
+  url: https://aws.amazon.com/elasticache/testimonials/
+- type: x-website
+  url: https://aws.amazon.com/elasticache/
 - type: x-documentation
   url: http://docs.aws.amazon.com/AmazonElastiCache/latest/APIReference/Welcome.html
 - type: x-faq
