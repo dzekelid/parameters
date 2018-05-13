@@ -39,15 +39,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apps-app-stack-parameters.md
-- name: Heroku Parameters Application PS Restart
-  description: Parameters application ps restart.
+- name: Heroku Parameters Application PS Stop
+  description: Parameters application ps stop.
   image: https://avatars3.githubusercontent.com/u/23211?v=4
   humanURL: https://www.heroku.com/
   baseURL: https://api.heroku.com//
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apps-app-ps-restart-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apps-app-ps-stop-parameters.md
 x-common:
 - type: x-base
   url: https://api.heroku.com
