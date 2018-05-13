@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Systems Manager API
+  title: Amazon EC2 Systems Manager API Get Parameters
   version: 1.0.0
+  description: Get a list of parameters used by the AWS account.
 schemes:
 - http
 produces:
