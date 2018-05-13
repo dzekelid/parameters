@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Heroku
-  description: Manage your Heroku apps, configs, collaborators &amp; resources
+  title: Heroku Parameters Application PS Scale
+  description: Parameters application ps scale.
   version: "1"
 host: api.heroku.com
 basePath: /
