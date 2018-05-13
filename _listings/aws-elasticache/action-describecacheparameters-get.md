@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS ElastiCache API
+  title: Amazon ElastiCache API Describe Cache Parameters
   version: 1.0.0
+  description: |-
+    Returns the detailed parameter list for a
+                particular cache parameter group.
 schemes:
 - http
 produces:
