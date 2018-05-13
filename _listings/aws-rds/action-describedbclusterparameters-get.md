@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS RDS API
+  title: Amazon RDS API Describe D B Cluster Parameters
   version: 1.0.0
+  description: Returns the detailed parameter list for a particular DB cluster parameter
+    group.
 schemes:
 - http
 produces:
