@@ -39,15 +39,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apps-app-stack-parameters.md
-- name: Heroku Parameters Application PS Scale
-  description: Parameters application ps scale.
+- name: Heroku Parameters Application Releases
+  description: Parameters application releases.
   image: https://avatars3.githubusercontent.com/u/23211?v=4
   humanURL: https://www.heroku.com/
   baseURL: https://api.heroku.com//
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apps-app-ps-scale-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/heroku/apps-app-releases-parameters.md
 x-common:
 - type: x-base
   url: https://api.heroku.com
