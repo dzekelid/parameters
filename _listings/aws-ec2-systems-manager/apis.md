@@ -37,15 +37,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-ec2-systems-manager/action-getparameters-get.md
-- name: Amazon EC2 Systems Manager API Describe Parameters
-  description: Get information about a parameter.
+- name: Amazon EC2 Systems Manager API Get Parameters
+  description: Get a list of parameters used by the AWS account.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
   humanURL: https://aws.amazon.com/ec2/systems-manager/
   baseURL: http:://{host}//
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-ec2-systems-manager/action-describeparameters-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-ec2-systems-manager/action-getparameters-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/ssm/latest/APIReference/Welcome.html
