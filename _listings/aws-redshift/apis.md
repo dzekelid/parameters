@@ -31,17 +31,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-redshift/action-describedefaultclusterparameters-get.md
-- name: Amazon Redshift API Describe Cluster Parameters
+- name: Amazon Redshift API Describe Default Cluster Parameters
   description: |-
-    Returns a detailed list of parameters contained within the specified Amazon Redshift
-                parameter group.
+    Returns a list of parameter settings for the specified parameter group
+                family.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRedshift.png
   humanURL: https://aws.amazon.com/redshift/
   baseURL: http:://{host}//
   tags: Parameters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-redshift/action-describeclusterparameters-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/parameters/master/_listings/aws-redshift/action-describedefaultclusterparameters-get.md
 x-common:
 - type: x-best-practices
   url: https://aws.amazon.com/redshift/developer-resources/#best-practices
