@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Heroku
 x-complete: 1
@@ -282,4 +281,16 @@ paths:
       - Parameters
       - Application
       - Stack
----
+  /apps/{app}/addons:
+    parameters:
+      summary: Parameter Application Addons
+      description: Parameter application addons.
+      operationId: parametersAppsAppAddons
+      x-api-path-slug: appsappaddons-parameters
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parameter
+      - Application
+      - ons

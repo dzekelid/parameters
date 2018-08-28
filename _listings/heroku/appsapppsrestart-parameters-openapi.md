@@ -215,6 +215,86 @@ paths:
       - Application
       - PS
       - Restart
+  /apps/{app}/ps/stop:
+    parameters:
+      summary: Parameters Application PS Stop
+      description: Parameters application ps stop.
+      operationId: parametersAppsAppPsStop
+      x-api-path-slug: appsapppsstop-parameters
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parameters
+      - Application
+      - PS
+      - Stop
+  /apps/{app}/ps/scale:
+    parameters:
+      summary: Parameters Application PS Scale
+      description: Parameters application ps scale.
+      operationId: parametersAppsAppPsScale
+      x-api-path-slug: appsapppsscale-parameters
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parameters
+      - Application
+      - PS
+      - Scale
+  /apps/{app}/releases:
+    parameters:
+      summary: Parameters Application Releases
+      description: Parameters application releases.
+      operationId: parametersAppsAppReleases
+      x-api-path-slug: appsappreleases-parameters
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parameters
+      - Application
+      - Releases
+  /apps/{app}/releases/{release}:
+    parameters:
+      summary: Parameters Application Releases
+      description: Parameters application releases.
+      operationId: parametersAppsAppReleasesRelease
+      x-api-path-slug: appsappreleasesrelease-parameters
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parameters
+      - Application
+      - Releases
+  /apps/{app}/stack:
+    parameters:
+      summary: Parameters Application Stack
+      description: Parameters application stack.
+      operationId: parametersAppsAppStack
+      x-api-path-slug: appsappstack-parameters
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parameters
+      - Application
+      - Stack
+  /apps/{app}/addons:
+    parameters:
+      summary: Parameter Application Addons
+      description: Parameter application addons.
+      operationId: parametersAppsAppAddons
+      x-api-path-slug: appsappaddons-parameters
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parameter
+      - Application
+      - ons
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

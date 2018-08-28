@@ -282,6 +282,19 @@ paths:
       - Parameters
       - Application
       - Stack
+  /apps/{app}/addons:
+    parameters:
+      summary: Parameter Application Addons
+      description: Parameter application addons.
+      operationId: parametersAppsAppAddons
+      x-api-path-slug: appsappaddons-parameters
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parameter
+      - Application
+      - ons
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0
